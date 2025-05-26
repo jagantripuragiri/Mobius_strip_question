@@ -74,7 +74,7 @@ class MobiusStrip:
 
 
 if __name__ == "__main__":
-    strip = MobiusStrip(R=1.0, w=0.3, n=300)
+    strip = MobiusStrip(R=1.0, w=0.4, n=200)
     print("Approx. Surface Area:", strip.surface_area())
     print("Approx. Edge Length:", strip.edge_length())
     strip.plot()
