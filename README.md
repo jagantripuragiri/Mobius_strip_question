@@ -12,10 +12,10 @@ Approximates edge length by evaluating both edges (v = ±w/2) and summing segmen
 
 Surface Area Approximation Calculated using:
 
-​
+​<img width="676" alt="image" src="https://github.com/user-attachments/assets/c93d7c46-133b-4b74-86cb-2aed10bb17fe" />
 
-Implemented via finite differences using np.gradient and integrated over the grid.
 
+I take the help of chatgpt here
 
 Edge Length :
 
